@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3901558.svg)](https://doi.org/10.5281/zenodo.3901557) 
+[![Build Status](https://travis-ci.org/BDMYRepository/Paguroidea-Mollusca-Interactions.svg?branch=master)](https://travis-ci.org/BDMYRepository/Paguroidea-Mollusca-Interactions)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3901558.svg)](https://doi.org/10.5281/zenodo.3901557) 
 
 This database contains information regarding the use of shells (Mollusca) by hermit crabs (Paguroidea) from the Southern Gulf of Mexico and the Mexican Caribbean Sea.
 The information was obtained as part of the Biodiversity of the Southern Gulf of Mexico project of the Yucatan Marine Biodiversity Laboratory (UNAM)
